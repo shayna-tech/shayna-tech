@@ -62,8 +62,7 @@ I'm a Computer Science Engineering student passionate about building clean, intu
 ---
 
 ## 📬 Connect With Me
-- **Email:** yourname@email.com  
-- **LinkedIn:** your-linkedin-url  
+- **LinkedIn:** www.linkedin.com/in/shayna-dodti 
 - **Portfolio:** coming soon  
 
 ---
